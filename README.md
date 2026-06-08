@@ -34,7 +34,7 @@ Python | GeoPandas | Shapely | SciPy | Streamlit | Matplotlib | NumPy
 
 - Combines advanced optimization with practical GIS constraints
 - User-friendly interface for non-technical planners
-- Sri Lanka-specific waste management solution
+- Sri Lanka-specific waste management solutions
 
 
 
